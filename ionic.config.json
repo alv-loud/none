@@ -1,0 +1,7 @@
+{
+  "name": "miap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
